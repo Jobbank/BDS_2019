@@ -3,10 +3,8 @@ title: "Big 5 DYPLRS"
 output: html_notebook
 ---
 
-
-
-Load in data
-
+*****
+##### Load in data
 ```{r}
 library(tidytext)
 library(tidyverse)
